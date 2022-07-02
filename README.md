@@ -1,6 +1,6 @@
-<h1 align="center">Hi there👋, I'm <a href="https://schmelto.github.io/Portfolio/">Ayush!</a>!</h1>
+<h1 align="center">Hi there👋, I'm <a href="https://schmelto.github.io/Portfolio/">Ayush</a>!</h1>
 <h3 align="center">A developer from India.</h3>
-<p align="center">d9ffaca46d5990ec39501bcdf22ee7a1</p>
+<p align="center">Here i am trying to figure out the supreme cause and whats's in it for me??!</p>
 
 ```js
 const name = 'Ayush';
