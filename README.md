@@ -16,7 +16,7 @@ while(dev.isCoding())
 ```
 
 <p align="center">Check out my <a href="https://ayushlohmod.github.io/oscar">portfolio website</a> to get to know my tech stack and some other cool stuff.</p>
-<p>Check out my <a href="ayushlohmod.live">Blog</a>
+<p align="center">Check out my <a href="https://www.ayushlohmod.live/">Blog</a></p>
 
 <p align="center">Feel free reaching out to me at following platforms:</p>
 
