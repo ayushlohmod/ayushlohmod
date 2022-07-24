@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm <a href="https://ayushlohmod.live/">Ayush</a>!</h1>
+<h1 align="center">Hi there👋, I'm <a href="https://www.ayushlohmod.live/">Ayush</a>!</h1>
 <h3 align="center">A developer from India.</h3>
 <p align="center">Here i am trying to figure out the supreme cause and whats's in it for me??!</p>
 
