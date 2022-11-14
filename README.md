@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm <a href="https://www.ayushlohmod.live/">Ayush</a>!</h1>
 <h3 align="center">A developer from India.</h3>
-<p align="center">Alright Let's Build Some cool PROJECTS</p>
+<p align="center">Alright!! Let's Build Some cool PROJECTS</p>
 
 ```js
 const name = 'Ayush';
